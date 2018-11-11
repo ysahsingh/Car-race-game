@@ -44,7 +44,7 @@ def drawText(text, font, surface, x, y):
 pygame.init()
 mainClock = pygame.time.Clock()
 windowSurface = pygame.display.set_mode((WINDOWWIDTH, WINDOWHEIGHT))
-pygame.display.set_caption('car race')
+pygame.display.set_caption('CHETAN KUMAR-CAR RACE')
 pygame.mouse.set_visible(False)
 
 # fonts
